@@ -1,0 +1,12 @@
+.topic{
+    color: aliceblue;
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+#img1{
+    position: relative;
+    height: 600px;
+    width: 500px;
+}

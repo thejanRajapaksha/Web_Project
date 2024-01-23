@@ -1,0 +1,27 @@
+#container1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 0.2fr 1fr 1fr 1fr 1fr ;
+    color: aliceblue;
+    gap: 20px;
+
+}
+
+.heading{
+    text-decoration: underline ;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    grid-column: span 2;
+    
+}
+.news{
+    margin-bottom: 100px;
+    position: relative;
+    
+}
+
+
+
+
+
+

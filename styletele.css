@@ -1,0 +1,48 @@
+.topic{
+    color: aliceblue;
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+#img1{
+    position: relative;
+    height: 600px;
+    width: 500px;
+}
+
+#font{
+    color: aliceblue;
+}
+
+.teleover{
+    position: relative;
+    top: 100px;
+    left: 300px;
+    margin-bottom: 150px;
+}
+
+.texttele{
+    width: 1000px;
+    text-align: justify;
+}
+
+.hr{
+    color: aliceblue;
+}
+
+#container1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    position: relative;
+    
+    color: aliceblue;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.top{
+    margin-bottom: 70px;
+}
+
